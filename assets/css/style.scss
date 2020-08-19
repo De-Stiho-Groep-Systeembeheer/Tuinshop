@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+section.page-header a.btn {
+  display: none;
+}
+
+span.site-footer-owner {
+  display: none;
+}
