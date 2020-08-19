@@ -1,4 +1,4 @@
 ## Tuinshop.nl is for sale.
 
-Contact [us](tuinshop@dsgdiensten.nl). Serious enquiries only.
+Contact [us](mailto:tuinshop@dsgdiensten.nl). Serious enquiries only.
 
