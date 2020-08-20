@@ -10,3 +10,11 @@ section.page-header a.btn {
 span.site-footer-owner {
   display: none;
 }
+
+
+.site-footer::before {
+  content: "DSG Diensten B.V. — KVK: 30232830 — Laagraven 44, 3439LK Nieuwegein";
+  display: block;
+  font-size: 80%;
+  font-family: "Courier New", Courier, monospace;
+}
